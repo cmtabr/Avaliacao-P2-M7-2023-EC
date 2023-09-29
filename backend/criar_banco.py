@@ -1,9 +1,9 @@
 import psycopg2
 
 # Constantes
-DB_USER = "meuuserawsrds"
+DB_USER = "postgres"
 DB_PASSWORD = "postgres"
-DB_HOST = "database-postgres.c36tibwlwhak.us-east-1.rds.amazonaws.com"
+DB_HOST = "p2-db-postgres.ctzzjjlrmc0k.us-east-1.rds.amazonaws.com"
 DB_PORT = "5432"
 DB_NAME = "postgres"
 
@@ -31,5 +31,6 @@ cur.execute(
     );"""
 )
 
+con.commit()
 # Fecha a conexão
 con.close()
