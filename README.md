@@ -36,6 +36,10 @@ Além disso foram criados IP's elásticos para ambas as instâncias.
 
 ![image](https://github.com/cmtabr/Avaliacao-P2-M7-2023-EC/assets/99201276/889e6523-5795-4bb4-8188-fca2a4e397af)
 
+E não menos importante, a configuração do grupo de segurança de ambas a instâncias e do RDS 
+![image](https://github.com/cmtabr/Avaliacao-P2-M7-2023-EC/assets/99201276/6cf3e654-db2c-4a65-bba4-54cb56c3c1b0)
+
+
 Por fim temos a saída da aplicação: 
 
 ![image](https://github.com/cmtabr/Avaliacao-P2-M7-2023-EC/assets/99201276/d424366c-2a1a-4358-b555-4819960eaee3)
